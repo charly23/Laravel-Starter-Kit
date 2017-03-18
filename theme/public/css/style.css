@@ -1,0 +1,67 @@
+
+/** [GLOBAL] **/
+html, body {
+    background-color: #fff;
+    color: #000;
+    font-family: sans-serif;
+    font-weight: 100;
+    height: 100vh;
+    margin: 0;
+}
+
+/** [HEADER] **/
+.header-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [BANNER] **/
+.banner-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [CONTAINER] **/
+.home-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [ABOUT] **/
+.about-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [LOGIN] **/
+.login-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [FORM] **/
+.form-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [FOOTER] **/
+.footer-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
+/** [SITE] **/
+.site-main {
+    border: 1px solid #dedede;
+    padding: 10px;
+    margin: 10px 0 10px 0;
+}
+
